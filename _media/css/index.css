@@ -1,0 +1,15 @@
+/*APP*/
+.mini_qr {
+  position: fixed;
+  right: 30px;
+  bottom: 0;
+  width: 184px;
+  padding: 36px;
+  padding-bottom: 85px;
+  z-index: 1000;
+}
+
+.mini_qr p {
+  color: #81818e;
+  font-size: 12px;
+}

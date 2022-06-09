@@ -1,1 +1,2 @@
 - [:globe_with_meridians: 首页](/)
+- [📺 视频教程](https://space.bilibili.com/212983666/channel/collectiondetail?sid=475827)

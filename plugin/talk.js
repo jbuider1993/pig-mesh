@@ -5,14 +5,14 @@ let talkHtml = `
 
 <script>
 var gitalk = new Gitalk({
-  clientID: 'a5dd5d136c3c290e1130',
-  clientSecret: '4687bb9dcd6eadb82a5d5865b57160c151ba9cde',
+  clientID: 'ec62f63fe99b3e07cea9',
+  clientSecret: '733636b1038e2d3256cc915de9a4fac22585ae36',
   repo: 'gitalk',
   owner: 'supoxz',
   admin: ['supoxz','lltx'],
-  id: (window.location.href.indexOf('?') > 0 ? window.location.href.substring(0,window.location.href.indexOf('?')) :window.location.href).replaceAll("https://pig4cloud.com/#/",""), 
+  id: (window.location.href.indexOf('?') > 0 ? window.location.href.substring(0,window.location.href.indexOf('?')) :window.location.href).replaceAll("https://datav.avuejs.com/#/",""), 
   title: '文档反馈',
-  labels: ['pig'],
+  labels: ['datav'],
   body:  location.href,
   distractionFreeMode: false  // Facebook-like distraction free mode
 })

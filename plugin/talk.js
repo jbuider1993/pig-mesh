@@ -26,7 +26,7 @@ const gittalk = function (hook) {
   hook.beforeEach(function (html) {
     let url = window.location.href;
 
-    if (url.indexOf('datav') > 0) {
+    if (url.indexOf('docs') > 0) {
       return html + talkHtml;
     }
 

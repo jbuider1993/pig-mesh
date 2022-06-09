@@ -9,7 +9,7 @@
 
 <div class='buttons'>
 <a href='http://pigx.vip/datav.pdf'><span>产品介绍</span></a>
-<a href='/#/datav/'><span>快速开始</span></a>
+<a href='/#/docs/'><span>快速开始</span></a>
 </div>
 
 <!--体验移动端的弹框-->

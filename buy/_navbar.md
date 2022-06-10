@@ -1,0 +1,2 @@
+- [:globe_with_meridians: 首页](/)
+- [⭐️ 授权说明](/buy/qa)

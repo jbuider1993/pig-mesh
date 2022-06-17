@@ -19,6 +19,16 @@
 
 ## ② 编辑 SQL 语句
 
-点击编辑在弹出的 SQL 编辑框中输入对应 SQL，选择对应的数据源执行即可
+- 1. 点击编辑在弹出的 SQL 编辑框中输入对应 SQL，选择对应的数据源执行即可
 
 ![1652887638](https://minio.pigx.vip/oss/1652887638.png)
+
+- 2. 点击编辑在弹出的 SQL 编辑框中输入对应函数，即可拥有参数传递的能力具体参考 [参数处理](/docs/%E5%8F%82%E6%95%B0%E4%BC%A0%E9%80%92.md)
+
+```js
+() => {
+  return `SELECT * FROM sys_user where username = ${window.$glob.params.username}`;
+};
+```
+
+!> SQL 语句输入框不只可以输入字符串，更可以写函数！！！

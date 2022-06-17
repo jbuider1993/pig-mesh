@@ -8,7 +8,7 @@
 - 🚀 组件灵活可定制
 
 <div class='buttons'>
-<a href='_media/file/datav.pdf' target='_blank'><span>产品介绍</span></a>
+<a href='_media/file/datav.pdf' target='_blank' download="DataV产品介绍.pdf"><span>产品介绍</span></a>
 <a href='http://datav.pig4cloud.com' target='_blank'><span>在线演示</span></a>
 <a href='/#/docs/' target='_blank'><span>快速开始</span></a>
 </div>

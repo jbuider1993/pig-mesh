@@ -1,11 +1,11 @@
 ## ① 添加 maven 依赖
 
-- [查看最新版本](https://repo1.maven.org/maven2/com/pig4cloud/plugin/datav-security-plugin/)
+- [查看最新版本](https://repo1.maven.org/maven2/com/pig4cloud/plugin/datav-security-form-login-plugin/)
 
 ```xml
 <dependency>
   <groupId>com.pig4cloud.plugin</groupId>
-  <artifactId>datav-security-plugin</artifactId>
+  <artifactId>datav-security-form-login-plugin</artifactId>
   <version>${lastVersion}</version>
 </dependency>
 ```

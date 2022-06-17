@@ -1,3 +1,5 @@
+![](https://minio.pigx.vip/oss/1655478157.jpg)
+
 ## ① 添加 maven 依赖
 
 - [查看最新版本](https://repo1.maven.org/maven2/com/pig4cloud/plugin/datav-security-renren-login-plugin/)

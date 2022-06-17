@@ -6,7 +6,7 @@
 
 ● 配置 链接参数
 
-!> 自动创建表 ， 支持常见的 mysql、Oracle 、sql server 、DB2 、 达梦
+!> 自动创建表 ， 支持常见的 mysql、oracle 、pg、sql server 、DB2 、 达梦
 
 ## ② MySQL 为例
 

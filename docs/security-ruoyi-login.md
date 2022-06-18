@@ -1,3 +1,6 @@
+
+<iframe src="//player.bilibili.com/player.html?aid=897544157&bvid=BV1MA4y1d7SK&cid=749696272&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>
+
 ![](https://minio.pigx.vip/oss/1655478144.jpg)
 
 ## ① 添加 maven 依赖
@@ -15,7 +18,7 @@
 ## ② 配置免密参数
 
 ```
-datav.ruoyi.check-token-url=http://ip:port/dev-api/getInfo
+datav.ruoyi.check-token-url=http://ip:port/prod-api/getInfo
 datav.ruoyi.error-url=若依登录页
 ```
 

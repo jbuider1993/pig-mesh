@@ -82,3 +82,4 @@
     - [jeesite 免密认证](/docs/security-jeesite-login.md)
     - [guns 免密认证](/docs/security-guns-login.md)
     - [renren 免密认证](/docs/security-renren-login.md)
+    - [万能免密认证](/docs/security-common-login.md)

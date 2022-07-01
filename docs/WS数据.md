@@ -1,0 +1,13 @@
+<iframe src="//player.bilibili.com/player.html?aid=512325240&bvid=BV1gg41197Q6&cid=742389160&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>
+
+## ① 选中组件
+
+选中组件（本文以折线图为例说明），在操作界面右侧，点击图标，如下图
+
+![](https://minio.pigx.vip/oss/1652887153.png)
+
+## ② 编辑数据值
+
+点击编辑在弹出的代码编辑框中填写我们的图表数据即可，数据格式要求参考各组件中的数据格式定义。
+
+![](https://minio.pigx.vip/oss/1652887232.png)

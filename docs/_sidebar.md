@@ -1,4 +1,4 @@
-- [🔰 在线演示](http://datav.pig4cloud.com)
+- [🔰 详细对比](https://docs.qq.com/sheet/DZGpQcUtxSkdUQ1Nv)
 - [🚀 一、快速开始](#)
   - [1.1 获取 license](/docs/1.1license.md)
   - [1.2 本地快速开始](/docs/1.2quick-start.md)

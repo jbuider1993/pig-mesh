@@ -10,7 +10,7 @@ var gitalk = new Gitalk({
   repo: 'gitalk',
   owner: 'supoxz',
   admin: ['supoxz','lltx'],
-  id: (window.location.href.indexOf('?') > 0 ? window.location.href.substring(0,window.location.href.indexOf('?')) :window.location.href).replaceAll("https://datav.avuejs.com/#/",""), 
+  id: 'datav',
   title: '文档反馈',
   labels: ['datav'],
   body:  location.href,

@@ -64,9 +64,7 @@ public class PigAuthenticationFailureEventHandler implements AuthenticationFailu
 		logVo.setType(LogTypeEnum.ERROR.getType());
 		logVo.setException(exception.getLocalizedMessage());
 		// 发送异步日志事件
-		Long startTime = System.currentTimeMillis();
-		Long endTime = System.currentTimeMillis();
-		logVo.setTime(endTime - startTime);
+		logVo.setTime(0L);
 		logVo.setCreateBy(username);
 		logVo.setUpdateBy(username);
 		SpringContextHolder.publishEvent(new SysLogEvent(logVo));
